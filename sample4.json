@@ -1,0 +1,32 @@
+{
+    "patient_info": {
+        "name": "wwtwy",
+        "age": "56",
+        "weight": "44"
+    },
+    "patient_id": "SAMPLE4",
+    "drug": "CODEINE",
+    "timestamp": "2026-02-19T22:44:55.286697",
+    "risk_assessment": {
+        "risk_label": "Safe",
+        "severity": "none",
+        "confidence_score": 0.6
+    },
+    "pharmacogenomic_profile": {
+        "primary_gene": "Unknown",
+        "diplotype": "*X/*Y",
+        "phenotype": "NM",
+        "detected_variants": []
+    },
+    "clinical_recommendation": {
+        "note": "Consult physician before making dosage changes."
+    },
+    "llm_generated_explanation": {
+        "model": "RIFT-PharmaAI v1.0",
+        "analysis_type": "Simulated LLM Clinical Interpretation",
+        "summary": "AI Pharmacogenomic Assessment for wwtwy:\n\nNo clinically significant pharmacogenomic variants were detected that are known to influence the metabolism or therapeutic response to CODEINE. Based on current genomic evidence, standard dosing protocols may be appropriate.\n\nConfidence Level: High (no risk-associated variants identified)."
+    },
+    "quality_metrics": {
+        "vcf_parsing_success": true
+    }
+}

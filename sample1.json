@@ -1,0 +1,30 @@
+{
+    "patient_info": {
+        "name": "6454",
+        "age": "56565",
+        "weight": "54"
+    },
+    "patient_id": "SAMPLE1",
+    "drug": "CLOPIDOGREL",
+    "timestamp": "2026-02-19T22:29:42.910688",
+    "risk_assessment": {
+        "risk_label": "Safe",
+        "severity": "none",
+        "confidence_score": 0.6
+    },
+    "pharmacogenomic_profile": {
+        "primary_gene": "Unknown",
+        "diplotype": "*X/*Y",
+        "phenotype": "NM",
+        "detected_variants": []
+    },
+    "clinical_recommendation": {
+        "note": "Consult physician before making dosage changes."
+    },
+    "llm_generated_explanation": {
+        "summary": "No pharmacogenomic variants detected affecting CLOPIDOGREL metabolism for 6454."
+    },
+    "quality_metrics": {
+        "vcf_parsing_success": true
+    }
+}

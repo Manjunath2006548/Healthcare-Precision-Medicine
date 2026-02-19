@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PharmaGuard Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>PharmaGuard Dashboard</h1>
+    <form id="vcfForm">
+        <label>Patient Name:</label>
+        <input type="text" id="patientName" name="patient_name" required>
+
+        <label>Age:</label>
+        <input type="number" id="age" name="age" required>
+
+        <label>Weight (kg):</label>
+        <input type="number" id="weight" name="weight" required>
+
+        <label>Upload VCF File:</label>
+        <input type="file" id="vcfFile" name="vcf_file" accept=".vcf" required>
+
+        <label>Drug Name:</label>
+        <select id="drugName" name="drug_name" required>
+            <option value="CODEINE">CODEINE</option>
+            <option value="WARFARIN">WARFARIN</option>
+            <option value="CLOPIDOGREL">CLOPIDOGREL</option>
+            <option value="SIMVASTATIN">SIMVASTATIN</option>
+            <option value="AZATHIOPRINE">AZATHIOPRINE</option>
+            <option value="FLUOROURACIL">FLUOROURACIL</option>
+        </select>
+
+        <button type="submit">Predict</button>
+    </form>
+
+    <div id="output"></div>
+    <script src="script.js"></script>
+</body>
+</html>

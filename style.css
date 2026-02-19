@@ -1,0 +1,8 @@
+body { font-family: Arial; margin: 20px; }
+h1 { color: #2E8B57; }
+form { margin-bottom: 20px; }
+form input, form select { display:block; margin-bottom:10px; padding:5px; width: 200px; }
+#output { background: #f4f4f4; padding: 10px; border-radius: 5px; max-height: 500px; overflow: auto; }
+.safe { color: green; }
+.adjust { color: orange; }
+.toxic { color: red; }

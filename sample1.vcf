@@ -1,0 +1,6 @@
+##fileformat=VCFv4.2
+##INFO=<ID=GENE,Number=1,Type=String,Description="Gene Symbol">
+##INFO=<ID=IMPACT,Number=1,Type=String,Description="Variant impact">
+#CHROM POS    ID    REF ALT QUAL FILTER INFO
+1      123456 rs123 A   T   .    .      GENE=CYP2D6;IMPACT=moderate
+2      234567 rs456 G   C   .    .      GENE=TPMT;IMPACT=high
