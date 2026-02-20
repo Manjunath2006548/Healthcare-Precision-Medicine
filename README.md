@@ -5,10 +5,12 @@ Healthcare Precision Medicine is a platform that analyzes patient genomic data (
 ---
 
 ## 🔗 Live Demo
-[Insert your live demo link here]
+
+https://photos.app.goo.gl/DXmsh2XtykYegdEo9
 
 ## 📹 LinkedIn Video
-[Insert your LinkedIn demo/video link here]
+
+https://www.linkedin.com/posts/manjunathbhaskar_pharmaguard-pharmacogenomics-aiinhealthcare-ugcPost-7430420696989777920-5Wkp?utm_source=share&utm_medium=member_android&rcm=ACoAAFSDX68BTLLdgGYcxLOZMel2H_a-c7okWiY
 
 ## PROJECT PRESENTATION
 
@@ -135,5 +137,6 @@ Healthcare-Precision-Medicine/
 3.Predicts drug-specific risks: Safe, Adjust Dosage, Toxic, Ineffective, Unknown.
 4.Generates clinical explanations with variant citations and biological mechanisms.
 5.Provides CPIC-aligned dosing recommendations.
+
 
 
