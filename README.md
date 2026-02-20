@@ -93,10 +93,10 @@ Click Predict.
 View predicted risk and detailed clinical explanation.
 
 👥 Team Members
-Manjunath Bhaskar HEBBAR
-VENKATA DHANUH MALLELA REDDY
+Manjunath Bhaskar Hebbar
+VENKATA DHANUSH REDDY MALLELA
 Ajay k
-Bhakar
+Bhaskar
 
 
 
@@ -137,6 +137,7 @@ Healthcare-Precision-Medicine/
 3.Predicts drug-specific risks: Safe, Adjust Dosage, Toxic, Ineffective, Unknown.
 4.Generates clinical explanations with variant citations and biological mechanisms.
 5.Provides CPIC-aligned dosing recommendations.
+
 
 
 
