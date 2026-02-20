@@ -10,6 +10,10 @@ Healthcare Precision Medicine is a platform that analyzes patient genomic data (
 ## 📹 LinkedIn Video
 [Insert your LinkedIn demo/video link here]
 
+## PROJECT PRESENTATION
+
+https://www.canva.com/design/DAHBwlae_Uc/uLTaJBBp5GVGkJ4H9WgJXA/edit?utm_content=DAHBwlae_Uc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ---
 
 ## 🏗 Architecture Overview
@@ -131,4 +135,5 @@ Healthcare-Precision-Medicine/
 3.Predicts drug-specific risks: Safe, Adjust Dosage, Toxic, Ineffective, Unknown.
 4.Generates clinical explanations with variant citations and biological mechanisms.
 5.Provides CPIC-aligned dosing recommendations.
+
 
